@@ -1,7 +1,7 @@
 {
 	"name": "@qsocket/transport-engine.io-v3",
 	"description": "A wrapper for engine.io v3, compatible with @qsocket/core, allowing integration with legacy versions of Engine.IO in qsocket projects.",
-	"version": "0.0.1-beta",
+	"version": "0.0.1-rc",
 	"keywords": [
 		"qsocket",
 		"qsocket/core",
